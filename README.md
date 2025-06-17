@@ -13,7 +13,9 @@
 > Hello,  
 >  
 > Please find my submission for the Smart To-Do List assignment.  
-> I’ve implemented the project using Java, as I am more comfortable with it.  
+> I’ve implemented the project using Java, as I am more comfortable with it.
+>
+> I am genuinely interested in learning and improving my skills — if you give me the opportunity, I will definitely put in the effort to learn and complete this in Python as well.
 >  
 > Thank you.  
 >  
