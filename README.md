@@ -29,7 +29,6 @@
 
 javac TaskManager.java
 
-This compiles your program and creates a TaskManager.class file.
 
 3. Run the Program
 Now run:
